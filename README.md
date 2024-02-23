@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anirudh
-- 👀 I’m interested in meeting new people 
-- 🌱 I’m currently work in the customer sucess team @ Tenstorrent
+- 🌱 I crrently work in the Customer Success Team @ Tenstorrent
 - 📫 How to reach me aramchandran@tenstorrent.com
 - ⚡ Fun fact: have a pet rabbit called ash 🐰🐇
 
