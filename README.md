@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anirudh
-- 🌱 I crrently work in the Customer Success Team @ Tenstorrent
+- 🌱 I currently work in the Customer Success Team @ Tenstorrent
 - 📫 How to reach me aramchandran@tenstorrent.com
 - ⚡ Fun fact: have a pet rabbit called ash 🐰🐇
 
